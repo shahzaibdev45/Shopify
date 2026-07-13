@@ -1,0 +1,84 @@
+
+import React from "react";
+import Browsecategories from "../components/browsecategories";
+import Footer from "../components/footer";
+import GoToTop from "../components/GoToTop";
+import Header from "../components/header";
+import Pagebanner from "../components/pagebanner";
+
+const login = () => {
+   const [user,setUser] = React.useState({firstname:"",lastname:"", email:"",password:""}) 
+   const [users,setUsers] = React.useState<any[]>([])
+    React.useEffect(()=>{
+        const data = localStorage.getItem("users")
+        if(data){
+           setUsers(JSON.parse(data))
+        }
+    },[])
+    React.useEffect(()=> {
+      localStorage.setItem("users", JSON.stringify(users));
+    },[users])
+   function storeData(){
+       if (!user.firstname.trim() || !user.email.trim() || !user.password.trim() || !user.lastname.trim()) return;
+        setUsers((prevUser)=> [...prevUser,user])
+        setUser({ firstname:"",lastname:"",email:"",password:""})
+   }
+  return (
+    <div>
+      <div>
+        <Header />
+      </div>
+      <div className="flex flex-col gap-6">
+        <div className="xl:px-36 lg:px-16">
+          <Browsecategories />
+        </div>
+        <Pagebanner title={"Create Account"} subtitle={"Home/Create Account"}/>
+        <div className="flex items-center justify-center lg:p-20 md:p-10 sm:p-10 p-3">
+          <div className="xl:w-180 bg-stone-100 p-8 w-full flex flex-col gap-6 py-6">
+            <div className="py-6 flex flex-col gap-10">
+              <input
+              value={user.firstname}
+               onChange={(e)=> setUser({...user,firstname:e.target.value})}
+                className="h-15 w-full border border-stone-300 px-4"
+                placeholder="FIRST NAME"
+                type="text"
+              />
+              <input
+               value={user.lastname}
+               onChange={(e)=> setUser({...user,lastname:e.target.value})}
+                className="h-15 w-full border border-stone-300 px-4"
+                placeholder="LAST NAME"
+                type="text"
+              />
+              <input
+               value={user.email}
+               onChange={(e)=> setUser({...user,email:e.target.value})}
+                className="h-15 w-full border border-stone-300 px-4"
+                placeholder="EMAIL"
+                type="email"
+              />
+              <input
+               value={user.password}
+               onChange={(e)=> setUser({...user,password:e.target.value})}
+                className="h-15 w-full border border-stone-300 px-4"
+                placeholder="Password"
+                type="password"
+              />
+              <div className="flex items-center justify-center">
+                <button onClick={storeData} className="font-bold cursor-pointer uppercase hover:bg-amber-400 transition-colors delay-500 text-white bg-blue-950 text-sm px-6 py-4">
+                  CREATE
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <GoToTop/>
+          <Footer/>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default login;
