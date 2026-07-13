@@ -1,23 +1,11 @@
 # 👋 Hi, I'm Shahzaib Aftab
 
-<h3 align="center">
-Full Stack JavaScript Developer | React.js | React Native | Expo | Next.js | Firebase
+<h3 >
+Full Stack Developer | React.js | React Native | Expo | Next.js | Firebase
 </h3>
 
-<p align="center">
+<p>
 Passionate about building modern, scalable, and user-friendly web & mobile applications with clean code and exceptional user experiences.
-</p>
-
-<p align="center">
-  <a href="https://github.com/shahzaibdev45">
-    <img src="https://img.shields.io/badge/GitHub-shahzaibdev45-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/shahzaibaftabdev">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahzaib_Aftab-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://shahzaibaftabdev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome">
-  </a>
 </p>
 
 ---
@@ -36,77 +24,13 @@ Passionate about building modern, scalable, and user-friendly web & mobile appli
 
 # 💻 Skills & Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,firebase,mongodb,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=5"/>
+<p >
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,androidstudio,aws,gcp,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=7"
+  
 </p>
 
 ---
-
-# 🚀 Tech Stack
-
-## 🌐 Frontend
-
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Web Design
-- Vite
-
----
-
-## 📱 Mobile Development
-
-- React Native
-- Expo
-- Expo Router
-- NativeWind
-- Cross-Platform App Development
-
----
-
-## ⚙️ Backend
-
-- Node.js
-- Express.js
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-- Firebase Hosting
-- REST APIs
-
----
-
-## 🗄️ Database
-
-- Firebase Firestore
-- MongoDB
-
----
-
-## 🔄 State Management
-
-- Zustand
-- React Context API
-
----
-
-## 🛠️ Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-- Netlify
-- Vercel
-- Shopify
-
----
-
 # 🚀 Core Expertise
 
 - Responsive Web Development
@@ -171,30 +95,6 @@ A responsive cross-platform food ordering application that provides an intuitive
 - Expo
 - Firebase
 
----
-
-## 🎥 Video Player Application
-
-A lightweight and responsive video player application with smooth playback controls, fullscreen support, and a modern user interface.
-
-**Tech Stack**
-
-- React Native
-- Expo
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahzaibdev45&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibdev45&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibdev45&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -209,21 +109,20 @@ A lightweight and responsive video player application with smooth playback contr
 
 ---
 
-# 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/shahzaibdev45">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shahzaibaftabdev">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://shahzaibaftabdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
+<p>
+  <a href="https://github.com/shahzaibdev45" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shahzaibaftabdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://shahzaibaftabdev.netlify.app" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="45" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -240,6 +139,13 @@ I'm open to:
 - 💼 Internship & Remote Opportunities
 
 ---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibdev45&theme=github-compact&hide_border=true" />
+</p>
+
 
 <p align="center">
 
