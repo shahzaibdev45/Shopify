@@ -1,16 +1,24 @@
 # 👋 Hi, I'm Shahzaib Aftab
 
-<div align="center">
+<h3 align="center">
+Full Stack JavaScript Developer | React.js | React Native | Expo | Next.js | Firebase
+</h3>
 
-### 🚀 Full Stack JavaScript Developer | React Native | Expo | React.js | Next.js | Firebase
+<p align="center">
+Passionate about building modern, scalable, and user-friendly web & mobile applications with clean code and exceptional user experiences.
+</p>
 
-Passionate about building modern, responsive, and scalable web and mobile applications with clean code and exceptional user experiences.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://shahzaibaftabdev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahzaib_Aftab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shahzaibaftabdev)
-[![GitHub](https://img.shields.io/badge/GitHub-shahzaibdev45-black?style=for-the-badge&logo=github)](https://github.com/shahzaibdev45)
-
-</div>
+<p align="center">
+  <a href="https://github.com/shahzaibdev45">
+    <img src="https://img.shields.io/badge/GitHub-shahzaibdev45-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/shahzaibaftabdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Shahzaib_Aftab-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://shahzaibaftabdev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
 
 ---
 
@@ -19,40 +27,51 @@ Passionate about building modern, responsive, and scalable web and mobile applic
 - 💻 Full Stack JavaScript Developer
 - 📱 React Native & Expo Developer
 - 🌐 React.js & Next.js Developer
-- 🔥 Firebase Specialist
-- 🎯 Passionate about building scalable web & mobile applications
-- 📚 Continuously learning new technologies
-- ⚡ Focused on writing clean, maintainable, and efficient code
+- 🔥 Firebase Developer
+- ⚡ Passionate about building scalable web & mobile applications
+- 📚 Always learning new technologies and best practices
+- 🎯 Focused on performance, responsive design, and clean architecture
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Skills & Technologies
 
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,firebase,mongodb,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=5"/>
+</p>
 
 ---
 
-## Mobile Development
+# 🚀 Tech Stack
+
+## 🌐 Frontend
+
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Responsive Web Design
+- Vite
+
+---
+
+## 📱 Mobile Development
 
 - React Native
 - Expo
 - Expo Router
 - NativeWind
-- Responsive UI
-- Cross-Platform Development
+- Cross-Platform App Development
 
 ---
 
-## Backend & Database
+## ⚙️ Backend
 
+- Node.js
+- Express.js
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Storage
@@ -61,118 +80,171 @@ Passionate about building modern, responsive, and scalable web and mobile applic
 
 ---
 
-## State Management
+## 🗄️ Database
+
+- Firebase Firestore
+- MongoDB
+
+---
+
+## 🔄 State Management
 
 - Zustand
 - React Context API
 
 ---
 
-## Version Control
+## 🛠️ Tools
 
 - Git
 - GitHub
-
----
-
-## Tools
-
 - VS Code
-- Android Studio
 - Postman
 - Figma
-- Shopify
 - Netlify
 - Vercel
+- Shopify
 
 ---
 
-# 🚀 Expertise
+# 🚀 Core Expertise
 
 - Responsive Web Development
-- Cross-Platform Mobile Apps
+- Cross-Platform Mobile Applications
 - Firebase Integration
 - Authentication Systems
-- CRUD Applications
+- CRUD Operations
 - Dashboard Development
-- API Integration
+- REST API Integration
 - State Management
-- UI/UX Implementation
+- Component-Based Architecture
 - Performance Optimization
-- Modern JavaScript Development
+- UI/UX Implementation
+- Clean Code & Best Practices
 
 ---
 
-# 📱 Featured Projects
+# 📂 Featured Projects
 
-### 🛒 Shopify Vehicle Parts Store
+## 🛒 Shopify Vehicle Parts Store
 
-A modern Shopify-powered e-commerce website where users can browse thousands of vehicle parts and automotive accessories with a clean, responsive shopping experience.
+A modern Shopify-powered e-commerce platform where users can browse thousands of vehicle parts and automotive accessories. The platform offers advanced search, category-based navigation, product details, shopping cart functionality, and a responsive shopping experience.
 
----
-
-### 👨‍💼 Employee Management System
-
-A complete HR Management System built using React, Firebase, and Zustand with authentication, department management, employee records, and role-based access.
-
----
-
-### 🍔 Food Delivery App
-
-A cross-platform food ordering application built with React Native and Expo featuring authentication, modern UI, and Firebase backend.
+**Tech Stack**
+- Shopify
+- Liquid
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-### 📖 Islamic Quiz App
+## 👨‍💼 Employee Management System
 
-Interactive quiz application developed with Expo and React Native featuring multiple categories and score tracking.
+A complete HR Management System that enables organizations to manage employees, departments, authentication, and administrative operations with a secure Firebase backend.
+
+**Features**
+
+- User Authentication
+- Employee Management
+- Department Management
+- CRUD Operations
+- Role-Based Access
+- Responsive Dashboard
+
+**Tech Stack**
+
+- React.js
+- Firebase
+- Tailwind CSS
+- Zustand
 
 ---
 
-### 📶 WiFi QR Generator
+## 🍔 Food Delivery Application
 
-Generate QR codes for WiFi networks to allow instant connection without manually entering passwords.
+A responsive cross-platform food ordering application that provides an intuitive interface for browsing restaurants, ordering food, and managing user accounts.
+
+**Tech Stack**
+
+- React Native
+- Expo
+- Firebase
 
 ---
 
-### 🎥 Video Player App
+## 🎥 Video Player Application
 
-A modern video player application with playback controls and responsive UI.
+A lightweight and responsive video player application with smooth playback controls, fullscreen support, and a modern user interface.
+
+**Tech Stack**
+
+- React Native
+- Expo
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shahzaibdev45&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahzaibdev45&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahzaibdev45&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibdev45&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibdev45&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibdev45&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Node.js
+- Advanced Node.js
 - Express.js
 - MongoDB
-- AI Integrations
+- AI Integration
 - Cloud Technologies
+- System Design
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shahzaibaftabdev
-- 🌐 Portfolio: https://shahzaibaftabdev.netlify.app
-- 🐙 GitHub: https://github.com/shahzaibdev45
+<p align="left">
+<a href="https://github.com/shahzaibdev45">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shahzaibaftabdev">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://shahzaibaftabdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+# 💼 Open for Opportunities
 
-### ⭐ Thanks for visiting my profile!
+I'm open to:
 
-*"Building innovative digital experiences, one project at a time."*
+- 💻 Frontend Development
+- 📱 React Native Development
+- 🌐 Full Stack JavaScript Development
+- 🚀 Freelance Projects
+- 🤝 Open Source Contributions
+- 💼 Internship & Remote Opportunities
 
-</div>
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+*"Turning ideas into modern, scalable, and impactful digital experiences."*
+
+</p>
